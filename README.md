@@ -6,7 +6,7 @@ With the incremental use of text messages as an essential and popular communicat
 ## Installation
 
 ## How to use?
-1. Open terminal
+1. Open the terminal
 2. Type git clone https://github.com/PanPapag/SMS-Spam-Detection-System.git to clone the repository to your local machine
 3. Type ```jupyter notebook```
 4. Select from SMS-Spam-Detection-System folder the sms_spam_detection.ipynb file
