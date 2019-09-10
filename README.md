@@ -14,8 +14,9 @@ With the incremental use of text messages as an essential and popular communicat
 - wordcloud
 
 ## Installation
-Installing Jupyter using Anaconda and conda from the link below:
-https://github.com/PanPapag/SMS-Spam-Detection-System/edit/master/README.md
+Installing Jupyter using Anaconda and conda from the link below:\
+https://jupyter.readthedocs.io/en/latest/install.html#id3
+
 ## How to use?
 1. Open the terminal
 2. Type ```git clone https://github.com/PanPapag/SMS-Spam-Detection-System.git``` 
