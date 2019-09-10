@@ -8,6 +8,6 @@ With the incremental use of text messages as an essential and popular communicat
 ## How to use?
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
+This project is licensed under MIT License.
 
-MIT © [Yourname]()
+MIT © [PanPapag]()
