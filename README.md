@@ -5,3 +5,9 @@ With the incremental use of text messages as an essential and popular communicat
 
 ## Installation
 
+## How to use?
+
+## License
+A short snippet describing the license (MIT, Apache etc)
+
+MIT © [Yourname]()
