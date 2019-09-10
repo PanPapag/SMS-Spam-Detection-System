@@ -6,8 +6,11 @@ With the incremental use of text messages as an essential and popular communicat
 ## Installation
 
 ## How to use?
+1. Open terminal
+2. git clone 
+
 
 ## License
-This project is licensed under MIT License.
+This project is licensed under the MIT License.
 
 MIT © [PanPapag]()
